@@ -1,0 +1,2 @@
+Title,Authors,Corporate Authors,Editors,Book Editors,Source Title,Publication Date,Publication Year,Volume,Issue,Part Number,Supplement,Special Issue,Beginning Page,Ending Page,Article Number,DOI,Conference Title,Conference Date
+Gianfranco Bisiacchi Giraldi 1947-2006 - Obituary,"Ruiz-Schneider, Elfego",,,,REVISTA MEXICANA DE ASTRONOMIA Y ASTROFISICA,OCT 2007,2007,43,2,,,,353,354,,,,
