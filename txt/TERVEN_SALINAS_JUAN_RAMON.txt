@@ -1,2 +1,0 @@
-Title,Authors,Corporate Authors,Editors,Book Editors,Source Title,Publication Date,Publication Year,Volume,Issue,Part Number,Supplement,Special Issue,Beginning Page,Ending Page,Article Number,DOI,Conference Title,Conference Date
-"Violence Without a Trace. A Study about Female Stereotypes and Violence as Obstacles in the Prosecution of Complaints in Queretaro, Mexico","Cordova Esparza, Karen Edith; Terven Salinas, Adriana",,,,REVISTA HUMANIDADES,JAN-JUN 2022,2022,12,1,,,,,,e48592,,,
